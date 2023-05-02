@@ -1,2 +1,2 @@
-# my-web-app
-my little web application
+# JokeApp
+my little web application for jokes!
