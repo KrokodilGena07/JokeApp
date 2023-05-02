@@ -1,0 +1,43 @@
+.Page {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    text-align: center;
+}
+
+.PageHeader {
+    background-color: #70d8ff;
+    padding: 20px;
+    color: white;
+}
+
+.MainPageHeader {
+    background-color: #70d8ff;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.MainPageHeaderLogo {
+    display: flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+}
+
+.PageFont {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+.HeaderLine {
+    width: 4px;
+    height: 50px;
+    background-color: white;
+}
+
+.HeaderBtnList {
+    display: flex;
+    align-items: center;
+}

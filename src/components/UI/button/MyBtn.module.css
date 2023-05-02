@@ -1,0 +1,17 @@
+.MyBtn {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: white;
+    color: #ff9770;
+    border: 2px solid #70d8ff;
+    margin: 0 10px;
+}
+
+.MyBtn:hover {
+    color: white;
+    background-color: #ff9770;
+    cursor: pointer;
+}

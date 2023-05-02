@@ -1,0 +1,35 @@
+.JokeHeader {
+    position: fixed;
+    width: 100%;
+}
+
+.JokeList {
+    position: absolute;
+    top: 15%;
+    z-index: -1;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.JokeItem {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    padding: 20px;
+    box-shadow: 0 0 4px 4px rgba(0, 0, 0, 0.2);
+    color: #70d8ff;
+    width: 800px;
+    align-items: center;
+}
+
+.JokeItemHead {
+    color: rgba(0, 0, 0, 0.2);
+}
+
+.JokeItemRemoveText {
+    cursor: pointer;
+}
